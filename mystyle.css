@@ -1,0 +1,32 @@
+.img-adding{
+    background-size: cover;
+    background-image: url(images/libraryimg/lib5.jpg); 
+    transition-duration: 0ms;
+    transform: translate3d(0px, 0px, 0px);
+}
+.catagory-img-size{
+    height: 35px;
+}
+.author{
+    color: blue !important;
+}
+.h3color{
+    color: white;
+    
+    text-shadow:
+  1px 1px 2px black,
+  0 0 1em black,
+  0 0 0.2em black;
+}
+.borrow-btn{
+    height: 55px;
+    width: 10rem;
+    background-color: transparent;
+    color: black;
+    border-radius: 10px;
+}
+.borrow-btn:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
